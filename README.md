@@ -7,10 +7,10 @@ Project uses bower qunit package.
 ##File Structure
 
 JS file that is tested:
-Scripts -> app.js
+`Scripts -> app.js`
 
 Test file:
-Tests -> appTests.js
+`Tests -> appTests.js`
 
 Test Suite File:
-Tests -> tests.html
+`Tests -> tests.html`
